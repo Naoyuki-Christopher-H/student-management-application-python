@@ -41,8 +41,8 @@ The **Student Management Application** is a simple Python-based system designed 
 4. **Printing a Report**:
     - The system outputs a formatted list of all saved student records.
 
----
-
 ## License
 
 This project is licensed under the MIT License.
+
+---
